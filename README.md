@@ -10,5 +10,5 @@ I love building clean, scalable user interfaces and learning new web technologie
   
 - 📫 Contact
 Email: arash1ra@hotmail.com  
-LinkedIn: [https://www.linkedin.com/in/arash-raji/] 
+ LinkedIn: [https://www.linkedin.com/in/arash-raji/] 
 
